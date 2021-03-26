@@ -1,0 +1,4 @@
+﻿  Dochkin_Lab_2.cpp
+C:\Users\Никита\Desktop\Study folder\Programming\Lab_2\Dochkin_Lab_2\Dochkin_Lab_2\Dochkin_Lab_2.cpp(21,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Никита\Desktop\Study folder\Programming\Lab_2\Dochkin_Lab_2\Dochkin_Lab_2\Dochkin_Lab_2.cpp(28,10): warning C4101: resbuf: неиспользованная локальная переменная
+  Dochkin_Lab_2.vcxproj -> C:\Users\Никита\Desktop\Study folder\Programming\Lab_2\Dochkin_Lab_2\Debug\Dochkin_Lab_2.exe
